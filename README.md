@@ -1,5 +1,7 @@
 # Qu-n-l-ti-m-Nail-v-t-l-ch-h-n
 Link slide : https://canva.link/ceiwh3k101aowfe
+
+
 HƯỚNG DẪN CÀI ĐẶT VÀ VẬN HÀNH HỆ THỐNG QUẢN LÝ TIỆM NAIL
 1. GIỚI THIỆU DỰ ÁN
 Hệ thống ERP thu nhỏ dành cho quản lý tiệm Nail, bao gồm 2 phân hệ chính:
